@@ -1,7 +1,6 @@
 package org.challenge.digitalfactory.mapper;
 
 import org.challenge.digitalfactory.dto.entity.Alumno;
-import org.challenge.digitalfactory.dto.entity.EstadoAlumno;
 import org.challenge.digitalfactory.dto.request.CreateAlumnoRequest;
 import org.challenge.digitalfactory.dto.response.CreateAlumnoResponse;
 
